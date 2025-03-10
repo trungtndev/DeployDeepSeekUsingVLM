@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-MODEL_NAME = "DeepSeek-R1-Distill-Llama-8B"
+MODEL_NAME = "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 PORT = "8000"  # Change if needed
 
 def start_vllm():
